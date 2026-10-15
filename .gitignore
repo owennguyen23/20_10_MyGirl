@@ -1,0 +1,15 @@
+node_modules
+dist
+dist-ssr
+*.local
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.log
+
+# config công cụ local
+.commandcode
+
+# ảnh gốc full-res (không dùng để build)
+src/assets/anhBongBay/originals
